@@ -58,7 +58,7 @@ of real estate inventory performance across key business
 dimensions, enabling stakeholders to monitor conversion
 performance, inventory trends, and potential areas for improvement.
 
-![Dashboard Preview](Real_Estate_Inventory_Performance_Dashboard)
+![Dashboard Preview](Real_Estate_Inventory_Performance_Dashboard.jpg)
 
 **Dashboard Files:**
 - [Download Power BI Dashboard (.pbix)](Real_Estate_Inventory_Performance_Dashboard.pbix)
